@@ -15,5 +15,4 @@ This is a lightweight web application for managing your grocery list. Users can 
 3. Start adding items to your grocery list!
 
 ### Links:
-- [Mobile App (Google Drive)](https://drive.google.com/file/d/1oYaMeege9Q9RBfiFY2XSFL934FMKZu2v/view?usp=sharing)
 - [Website](https://grocery-list.tiiny.site)
